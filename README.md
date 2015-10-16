@@ -12,28 +12,34 @@ Instructions
 
 3. Record your keystrokes.
 
+   ```
    $ python tivo_record_keystrokes.py <tivo-ip-address>
+   ```
 
-   Use the following keys to emulate the corresponding TiVo button
+2   Use the following keys to emulate the corresponding TiVo button
    
-   TiVo remote            PC keyboard
-   UP                     up arrow
-   DOWN                   down arrow
-   LEFT                   left arrow
-   RIGHT                  right arrow
-   SELECT                 spacebar
-   TiVo button            t
+   TiVo remote      |      PC keyboard
+   -----------------|------------------
+   UP               |      up arrow
+   DOWN             |      down arrow
+   LEFT             |      left arrow
+   RIGHT            |      right arrow
+   SELECT           |      spacebar
+   TiVo button      |      t
 
    Hit 'q' to exit. When you hit 'q', it will print out a list of
    instructions. Save that output to a file. This will be your macro.
 
    It may look like this:
+   ```
    2 KEY_DOWN
    1 KEY_UP
    1 SELECT
    1 SELECT
+   ```
 
 4. Playback your macro.
 
+   ```
    $ python tivo_playback_keystrokes.py <macro-file> <tivo-ip-address>
-
+   ```
