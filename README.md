@@ -40,3 +40,18 @@ Instructions
     ```
     $ python tivo_playback_keystrokes.py <macro-file> <tivo-ip-address>
     ```
+
+
+What can I do with this?
+------------------------
+Whatever you want! 
+
+More helpfully, here's what *I* did with it:
+
+I wrote this to allow me to transfer all my old recordings to my new
+TiVo. TiVo currently has no way to bulk transfer recordings, but you
+can use the TV UI to transfer a single show at a time. I used my tool
+to write a macro to transfer a single show, and then played back the
+macro 60 times to transfer all the shows. It worked, the DVR queued up
+the transfers, and my DVR spent the next several days transferring
+shows. The end result was that I had all my old shows on my new DVR.
