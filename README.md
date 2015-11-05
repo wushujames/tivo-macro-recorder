@@ -13,7 +13,8 @@ Instructions
     $ python tivo_record_keystrokes.py <tivo-ip-address>
     ```
 
-    Use the following keys to emulate the corresponding TiVo button
+    Use the following keys to emulate the corresponding buttons on the
+    TiVo remote.
     
     TiVo remote      |      PC keyboard
     -----------------|------------------
