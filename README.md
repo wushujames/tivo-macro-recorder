@@ -63,3 +63,16 @@ to write a macro to transfer a single show, and then played back the
 macro 60 times to transfer all the shows. It worked, the DVR queued up
 the transfers, and my DVR spent the next several days transferring
 shows. The end result was that I had all my old shows on my new DVR.
+
+Limitations
+-----------
+The tool simply plays back your button presses. It has no idea what
+screen it is on, or what the menu choices are.
+
+Even for a list of identical-looking items, like the recordings in
+your My Shows list, sometimes the menu choices will be different for
+each. For example, clicking the "Keep until I delete" button on one
+recording might immediately change that setting, whereas clicking
+"Keep until I delete" on another recording might bring up a conflict
+dialog saying that you are running out of disk space. Keep that in
+mind when writing your macros.
