@@ -48,9 +48,13 @@ Instructions
 
 What can I do with this?
 ------------------------
-Whatever you want! 
+Other ideas:
 
-More helpfully, here's what *I* did with it:
+* Mark all recordings in a folder as "Keep until I delete"
+* Transfer all your recordings from one DVR to another
+* Set all your One Passes to "Get in HD: Always"
+
+Here's what *I* did with it:
 
 I wrote this to allow me to transfer all my old recordings to my new
 TiVo. TiVo currently has no way to bulk transfer recordings, but you
@@ -59,3 +63,5 @@ to write a macro to transfer a single show, and then played back the
 macro 60 times to transfer all the shows. It worked, the DVR queued up
 the transfers, and my DVR spent the next several days transferring
 shows. The end result was that I had all my old shows on my new DVR.
+
+
