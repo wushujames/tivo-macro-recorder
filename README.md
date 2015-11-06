@@ -4,6 +4,10 @@ Use your keyboard to control your TiVo.
 Record macros.
 Playback macros.
 
+Demo video
+----------
+![Demo of TiVo macro recorder](http://i.imgur.com/VoYYKPz.jpg)](https://youtu.be/XjQA-riCsYU "Demo of TiVo macro recorder")
+
 Instructions
 ------------
 1. Turn on "Network Remote Control" on your TiVo. This is somewhere in Settings. Maybe Settings->Remote->Network Remote Control.
