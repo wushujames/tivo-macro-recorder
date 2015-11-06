@@ -48,7 +48,7 @@ Instructions
 
 What can I do with this?
 ------------------------
-Other ideas:
+Whatever you want! Some ideas:
 
 * Mark all recordings in a folder as "Keep until I delete"
 * Transfer all your recordings from one DVR to another
@@ -63,5 +63,3 @@ to write a macro to transfer a single show, and then played back the
 macro 60 times to transfer all the shows. It worked, the DVR queued up
 the transfers, and my DVR spent the next several days transferring
 shows. The end result was that I had all my old shows on my new DVR.
-
-
