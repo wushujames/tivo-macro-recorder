@@ -6,7 +6,7 @@ Playback macros.
 
 Demo video
 ----------
-![Demo of TiVo macro recorder](http://i.imgur.com/VoYYKPz.jpg)](https://youtu.be/XjQA-riCsYU "Demo of TiVo macro recorder")
+[![Demo of TiVo macro recorder](http://i.imgur.com/VoYYKPz.jpg)](https://youtu.be/XjQA-riCsYU "Demo of TiVo macro recorder")
 
 Instructions
 ------------
